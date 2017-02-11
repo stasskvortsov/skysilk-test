@@ -1,0 +1,46 @@
+body{
+background-color:#ffffff;
+font:12px Arial,Verdana,Tahoma,sans-serif;
+
+}
+
+a{
+	color:#3c3c3b;
+	text-decoration: none;
+	font-weight: bold;
+	text-transform: uppercase;
+	
+}
+
+
+header{
+	background-color:#ffffff;
+	height:135px;
+}
+
+
+.wrapper {
+	width: 968px;
+	margin: 0 auto;
+}
+
+.header {
+   padding: 38px 0 64px 0;
+}
+
+.logo {
+	width: 181px;
+	height: 55px;
+	float: left;
+	margin-top: 35px;
+}
+
+.menu {
+	float: right;
+	margin-top: 50px;
+}
+
+.menu ul li {
+	float: left;
+	margin-left: 61px;
+}
